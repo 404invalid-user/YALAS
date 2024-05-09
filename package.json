@@ -1,0 +1,24 @@
+{
+  "name": "yalas",
+  "version": "0.0.1",
+  "description": "Yet Another Logging Solution",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/404invalid-user/YALAS.git"
+  },
+  "keywords": [
+    "Logging",
+    "file",
+    "based"
+  ],
+  "author": "404invalid-user",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/404invalid-user/YALAS/issues"
+  },
+  "homepage": "https://github.com/404invalid-user/YALAS#readme"
+}
